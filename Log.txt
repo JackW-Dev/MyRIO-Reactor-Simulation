@@ -1,0 +1,88 @@
+04/12/2020 20:20:41 -- MyRIO Following Schedule: Valve Closed -- 24.170 -- -0.016 -- -0.004 -- -0.008 -- 
+04/12/2020 20:21:16 -- MyRIO Self Destruct Sequence Active -- 24.170 -- 0.418 -- -0.113 -- -0.125 -- Dev
+04/12/2020 20:21:29 -- MyRIO Self Destruct Sequence Active -- 24.048 -- -0.027 -- -0.004 -- -0.008 -- Dev
+04/12/2020 20:23:56 -- MyRIO Following Schedule: Valve Closed -- 23.682 -- -0.023 -- 0.000 -- -0.008 -- Dev
+04/12/2020 20:24:01 -- MyRIO Self Destruct Sequence Active -- 23.804 -- 0.039 -- -0.012 -- -0.043 -- Dev
+04/12/2020 20:24:52 -- MyRIO Following Schedule: Valve Closed -- 23.682 -- -0.027 -- -0.008 -- 0.004 -- Dev
+04/12/2020 20:24:57 -- MyRIO Self Destruct Sequence Active -- 23.682 -- -0.055 -- -0.008 -- 0.219 -- Dev
+04/12/2020 20:25:41 -- MyRIO Self Destruct Sequence Active -- 23.804 -- -0.023 -- -0.004 -- -0.008 -- Dev
+04/12/2020 20:27:43 -- MyRIO Following Schedule: Valve Closed -- 23.804 -- -0.031 -- -0.004 -- -0.004 -- Dev
+04/12/2020 20:28:01 -- MyRIO Self Destruct Sequence Active -- 23.926 -- 0.039 -- -0.004 -- 0.594 -- Dev
+04/12/2020 20:28:13 -- MyRIO Following Schedule: Valve Closed -- 23.926 -- -0.039 -- 0.000 -- -0.008 -- Dev
+04/12/2020 20:28:18 -- MyRIO Following Schedule: Valve Open -- 24.536 -- -0.012 -- 0.027 -- -0.012 -- Dev
+04/12/2020 20:28:18 -- MyRIO Following Schedule: Valve Closed -- 23.560 -- -0.039 -- -0.004 -- 0.004 -- Dev
+04/12/2020 20:28:19 -- MyRIO Following Schedule: Valve Open -- 24.780 -- -0.027 -- -0.020 -- 0.000 -- Dev
+04/12/2020 20:28:19 -- MyRIO Following Schedule: Valve Closed -- 24.536 -- -0.051 -- -0.035 -- 0.020 -- Dev
+04/12/2020 20:28:25 -- MyRIO Self Destruct Sequence Active -- 23.804 -- 0.082 -- -0.078 -- 0.105 -- Dev
+04/12/2020 20:30:24 -- MyRIO Following Schedule: Valve Closed -- 23.926 -- -0.043 -- -0.004 -- -0.004 -- Dev
+04/12/2020 20:30:31 -- MyRIO Self Destruct Sequence Active -- 23.926 -- 0.203 -- -0.293 -- 0.160 -- Dev
+04/12/2020 20:30:43 -- MyRIO Following Schedule: Valve Closed -- 24.048 -- -0.027 -- -0.004 -- -0.004 -- Dev
+04/12/2020 20:30:49 -- MyRIO Following Schedule: Valve Closed -- 23.926 -- 0.043 -- 0.004 -- 0.031 -- Dev
+04/12/2020 20:30:53 -- MyRIO Following Schedule: Valve Closed -- 23.804 -- -0.027 -- -0.020 -- -0.055 -- Dev
+04/12/2020 20:30:54 -- MyRIO Following Schedule: Valve Closed -- 23.926 -- -0.051 -- -0.020 -- 0.012 -- Dev
+04/12/2020 20:30:55 -- MyRIO Self Destruct Sequence Active -- 24.048 -- 0.020 -- -0.074 -- -0.066 -- Dev
+04/12/2020 20:30:55 -- MyRIO Following Schedule: Valve Closed -- 24.048 -- 0.020 -- -0.023 -- -0.082 -- Dev
+04/12/2020 20:31:27 -- MyRIO Following Schedule: Valve Closed -- 24.048 -- -0.031 -- -0.012 -- 0.031 -- Dev
+04/12/2020 20:31:47 -- MyRIO Self Destruct Sequence Active -- 24.048 -- 0.113 -- -0.348 -- -0.238 -- Dev
+04/12/2020 20:32:47 -- MyRIO Blown Up -- 24.048 -- -0.023 -- -0.004 -- -0.008 -- Dev
+04/12/2020 20:38:36 -- MyRIO Following Schedule: Valve Closed -- 24.048 -- -0.027 -- -0.008 -- -0.004 -- 
+04/12/2020 20:38:36 -- MyRIO Self Destruct Sequence Active -- 24.170 -- -0.027 -- -0.078 -- 0.250 -- 
+04/12/2020 20:44:05 -- MyRIO Self Destruct Sequence Active -- 24.292 -- -0.023 -- -0.004 -- -0.004 -- 
+04/12/2020 20:44:58 -- MyRIO Blown Up -- 24.170 -- -0.023 -- -0.004 -- -0.004 -- 
+04/12/2020 20:49:03 -- MyRIO Following Schedule: Valve Closed -- 24.414 -- -0.031 -- -0.004 -- -0.004 -- Dev
+04/12/2020 20:49:26 -- MyRIO Self Destruct Sequence Active -- 24.414 -- -0.027 -- 0.035 -- -0.281 -- Dev
+04/12/2020 20:50:26 -- MyRIO Blown Up -- 24.414 -- -0.023 -- -0.008 -- 0.000 -- Dev
+12/12/2020 12:11:51 -- MyRIO Following Schedule: Valve Closed -- 21.729 -- -0.023 -- -0.008 -- -0.004 -- 
+12/12/2020 12:20:42 -- MyRIO Following Schedule: Valve Closed -- 21.729 -- -0.027 -- 0.004 -- -0.004 -- 
+12/12/2020 12:21:02 -- MyRIO Following Schedule: Valve Closed -- 21.729 -- -0.027 -- -0.004 -- 0.012 -- User
+12/12/2020 12:21:38 -- MyRIO Following Schedule: Valve Closed -- 21.606 -- -0.023 -- -0.012 -- -0.004 -- 
+12/12/2020 12:22:25 -- MyRIO Following Schedule: Valve Closed -- 21.729 -- -0.031 -- -0.004 -- -0.004 -- 
+12/12/2020 12:22:50 -- MyRIO Following Schedule: Valve Closed -- 21.851 -- -0.023 -- 0.000 -- -0.008 -- Admin
+12/12/2020 12:23:24 -- MyRIO Following Schedule: Valve Closed -- 21.851 -- -0.031 -- -0.004 -- 0.012 -- User
+12/12/2020 12:24:09 -- MyRIO Following Schedule: Valve Closed -- 21.729 -- -0.020 -- -0.008 -- 0.000 -- 
+12/12/2020 13:15:25 -- MyRIO Following Schedule: Valve Closed -- 22.217 -- -0.027 -- -0.004 -- -0.008 -- 
+12/12/2020 13:16:13 -- MyRIO Following Schedule: Valve Open -- 22.949 -- -0.074 -- 0.043 -- -0.051 -- User
+12/12/2020 13:16:35 -- MyRIO Following Schedule: Valve Closed -- 22.217 -- -0.020 -- -0.008 -- -0.008 -- 
+12/12/2020 13:16:51 -- MyRIO Following Schedule: Valve Open -- 22.949 -- -0.066 -- -0.023 -- -0.016 -- Admin
+12/12/2020 13:17:17 -- MyRIO Following Schedule: Valve Closed -- 21.973 -- -0.023 -- -0.020 -- -0.004 -- Admin
+12/12/2020 13:17:26 -- MyRIO Automatic Cooling Engaged -- 23.437 -- -0.023 -- -0.008 -- 0.000 -- Admin
+12/12/2020 13:17:34 -- MyRIO Following Schedule: Valve Closed -- 21.973 -- -0.020 -- -0.008 -- 0.000 -- Admin
+12/12/2020 13:17:37 -- MyRIO Automatic Cooling Engaged -- 23.315 -- -0.027 -- -0.016 -- -0.012 -- Admin
+12/12/2020 13:17:42 -- MyRIO Following Schedule: Valve Closed -- 22.339 -- -0.027 -- 0.012 -- 0.008 -- Admin
+12/12/2020 13:17:42 -- MyRIO Following Schedule: Valve Open -- 22.583 -- -0.027 -- 0.016 -- -0.004 -- Admin
+12/12/2020 13:17:42 -- MyRIO Following Schedule: Valve Closed -- 22.583 -- -0.031 -- -0.008 -- 0.000 -- Admin
+12/12/2020 13:17:46 -- MyRIO Self Destruct Sequence Active -- 22.339 -- 0.090 -- -0.086 -- 0.109 -- Admin
+12/12/2020 13:18:09 -- MyRIO Self Destruct Sequence Active -- 22.461 -- -0.023 -- 0.000 -- -0.008 -- 
+12/12/2020 13:29:57 -- MyRIO Following Schedule: Valve Closed -- 22.583 -- -0.027 -- -0.023 -- -0.004 -- 
+12/12/2020 13:44:17 -- MyRIO Following Schedule: Valve Closed -- 22.827 -- -0.027 -- -0.008 -- 0.000 -- User
+12/12/2020 13:44:20 -- MyRIO Requesting Local Mode -- 22.827 -- -0.039 -- -0.004 -- 0.000 -- User
+12/12/2020 13:44:22 -- MyRIO Following Schedule: Valve Closed -- 22.827 -- -0.020 -- -0.008 -- -0.004 -- User
+15/12/2020 15:34:14 -- MyRIO Disconnected -- 21.240 -- -0.023 -- 0.004 -- -0.008 -- 
+15/12/2020 15:36:17 -- MyRIO Following Schedule: Valve Closed -- 21.606 -- -0.031 -- -0.004 -- -0.004 -- 
+18/12/2020 13:43:03 -- Cooling Valve Closed -- 21.606 -- -0.027 -- -0.008 -- -0.012 -- Dev
+18/12/2020 13:44:11 -- Cooling Valve Open -- 22.339 -- -0.012 -- -0.031 -- -0.020 -- Dev
+18/12/2020 13:44:13 -- Cooling Valve Closed -- 22.217 -- 0.000 -- 0.023 -- -0.004 -- Dev
+18/12/2020 13:44:16 -- Cooling Valve Open -- 22.339 -- -0.008 -- 0.008 -- 0.004 -- Dev
+18/12/2020 13:44:18 -- Cooling Valve Closed -- 21.484 -- -0.059 -- -0.047 -- 0.125 -- Dev
+18/12/2020 13:44:19 -- Cooling Valve Open -- 22.095 -- -0.031 -- 0.000 -- -0.004 -- Dev
+18/12/2020 13:44:20 -- Cooling Valve Closed -- 22.217 -- -0.012 -- -0.023 -- -0.012 -- Dev
+18/12/2020 13:44:22 -- Cooling Valve Open -- 22.461 -- -0.059 -- 0.008 -- -0.004 -- Dev
+18/12/2020 13:44:23 -- Cooling Valve Closed -- 22.461 -- -0.031 -- -0.012 -- -0.008 -- Dev
+18/12/2020 13:44:24 -- Cooling Valve Open -- 22.461 -- -0.023 -- 0.004 -- -0.020 -- Dev
+18/12/2020 13:44:25 -- Cooling Valve Closed -- 22.339 -- -0.039 -- -0.027 -- 0.016 -- Dev
+18/12/2020 14:05:12 -- Cooling Valve Open -- 21.729 -- 0.000 -- -0.016 -- 0.004 -- Dev
+18/12/2020 14:05:12 -- Cooling Valve Closed -- 22.217 -- -0.035 -- -0.016 -- -0.008 -- Dev
+18/12/2020 14:05:13 -- Cooling Valve Open -- 21.851 -- -0.031 -- 0.004 -- 0.020 -- Dev
+18/12/2020 14:05:14 -- Cooling Valve Closed -- 22.095 -- -0.027 -- 0.000 -- 0.004 -- Dev
+18/12/2020 14:05:15 -- Cooling Valve Open -- 22.583 -- -0.012 -- -0.016 -- 0.012 -- Dev
+18/12/2020 14:05:15 -- Cooling Valve Closed -- 22.339 -- -0.020 -- -0.016 -- -0.020 -- Dev
+18/12/2020 14:05:16 -- Cooling Valve Open -- 21.729 -- 0.027 -- -0.051 -- 0.000 -- Dev
+18/12/2020 14:05:17 -- Cooling Valve Closed -- 21.729 -- -0.035 -- -0.016 -- 0.004 -- Dev
+18/12/2020 14:05:17 -- Cooling Valve Open -- 22.705 -- -0.035 -- -0.023 -- -0.004 -- Dev
+18/12/2020 14:05:18 -- Cooling Valve Closed -- 22.217 -- -0.051 -- -0.027 -- 0.023 -- Dev
+18/12/2020 14:05:18 -- Cooling Valve Open -- 22.461 -- -0.031 -- -0.008 -- -0.012 -- Dev
+18/12/2020 14:05:19 -- Cooling Valve Closed -- 22.461 -- -0.035 -- -0.004 -- 0.012 -- Dev
+18/12/2020 14:05:20 -- Cooling Valve Open -- 21.484 -- -0.004 -- -0.023 -- -0.004 -- Dev
+18/12/2020 14:05:21 -- Cooling Valve Closed -- 22.461 -- -0.004 -- -0.004 -- -0.004 -- Dev
+18/12/2020 14:05:22 -- Cooling Valve Open -- 22.461 -- 0.000 -- 0.039 -- 0.016 -- Dev
+18/12/2020 14:05:22 -- Cooling Valve Closed -- 22.583 -- -0.016 -- 0.004 -- -0.020 -- Dev
